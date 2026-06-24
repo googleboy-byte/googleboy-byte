@@ -1,16 +1,12 @@
 Hello.
 
-My name is **Mainak**.
-
 I have an unfortunate habit of becoming curious about a topic, reading far too much about it, and then deciding that the appropriate response is to spend several months building something from scratch.
 
 Sometimes the result is useful. Sometimes it is educational. Occasionally it is both. I have stopped trying to predict where the next rabbit hole leads.
 
 **What begins as a question usually turns into a repository.**
 
-Looking through my projects, you might conclude that there is a carefully planned roadmap behind all of this. I assure you that this is mostly an illusion.
-
-The process is generally:
+Looking through my projects, you might conclude that there is a carefully planned roadmap behind all of this. I assure you that this is mostly an illusion. The process is generally:
 
 Encounter interesting problem.
 Become mildly curious.
